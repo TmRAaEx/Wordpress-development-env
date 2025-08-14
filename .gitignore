@@ -1,0 +1,15 @@
+# Ignorera allt i html utom wp-content
+html/*
+!html/wp-content/
+
+# I wp-content, ta med allt utom cache
+html/wp-content/cache/
+
+# Backup och script ska vara med
+!backup/
+!scripts/
+
+# Övrigt
+.DS_Store
+.vscode/
+.idea/

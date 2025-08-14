@@ -1,0 +1,6 @@
+[submodule "html/wp-content/plugins/myplugin"]
+	path = html/wp-content/plugins/myplugin
+	url = https://github.com/TmRAaEx/first-wp_plugin
+[submodule "html/wp-content/themes/mytheme"]
+	path = html/wp-content/themes/mytheme
+	url = https://github.com/TmRAaEx/first-wp_theme
