@@ -13,7 +13,11 @@ html/*
 # Ignorera cache i wp-content
 html/wp-content/cache/
 
+
+
 # Övrigt
+latest
+previous
 .DS_Store
 .vscode/
 .idea/
