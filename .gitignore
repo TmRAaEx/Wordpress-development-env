@@ -1,13 +1,17 @@
-# Ignorera allt i html utom wp-content
+# Ignorera allt i html
 html/*
+
+# Tillåt wp-content-mappen och dess föräldrar
 !html/wp-content/
+!html/wp-content/plugins/
+!html/wp-content/themes/
 
-# I wp-content, ta med allt utom cache
+# Tillåt alla filer i plugins och themes (submodules)
+!html/wp-content/plugins/**
+!html/wp-content/themes/**
+
+# Ignorera cache i wp-content
 html/wp-content/cache/
-
-# Backup och script ska vara med
-!backup/
-!scripts/
 
 # Övrigt
 .DS_Store
