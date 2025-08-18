@@ -71,6 +71,8 @@ by editing the docker-compose.yml file.
 
 <p> <img width="500" alt="docker-compose screenshot" src="https://github.com/user-attachments/assets/f5cc220e-8d4c-46b6-8812-44b350b511a7" /> </p>
 
+You can change the basename of the docker environment by editing `COMPOSE_PROJECT_NAME` inside the .env file
+
 ## 💾 Backup & Restore
 
 To back up the environment (database + plugins + themes + settings), run:
