@@ -59,6 +59,10 @@ docker compose up
 
 ## 🔧 Configuration
 
+### NOTES
+
+- if you change the security settings for the database you might want to add the `docker-compose.yml` file to gitignore for your own project
+
 You can configure:
 
 - Site ports
