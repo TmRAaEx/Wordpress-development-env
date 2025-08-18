@@ -16,7 +16,7 @@ To install this project run `git clone --recursive https://github.com/TmRAaEx/wo
 ### Setup
 
 1. Install project
-2. [Install wordpress](https://wordpress.org/download/) and place everything except wp-content inside the /html folder
+2. [Install wordpress](https://wordpress.org/download/) and place everything except *wp-content* inside the /html folder
 3. Run `docker compose build` or `docker build`
 4. Run `docker compose up`
 5. Go to [localhost:8085](http://localhost:8085) or your configured phpmyadmin port
