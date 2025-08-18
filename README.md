@@ -28,8 +28,7 @@ To install this project run `git clone --recursive https://github.com/TmRAaEx/wo
 
  ### Config 
 
-For configuring ports for site or database, configuring db settings, and changing mounted volumes edit `docker-compose.yml`. 
- <img width="682" height="872" alt="image" src="https://github.com/user-attachments/assets/f5cc220e-8d4c-46b6-8812-44b350b511a7" />
+For configuring ports for site or database, configuring db settings, and changing mounted volumes edit `docker-compose.yml`. <img width="682" height="872" alt="image" src="https://github.com/user-attachments/assets/f5cc220e-8d4c-46b6-8812-44b350b511a7" />
 
 
 
