@@ -11,7 +11,7 @@ The apps porpuse is to ____
 
 ## Installation
 
-To install this project run `git clone --recursive https://github.com/TmRAaEx/wordpress-app-2`
+To install this project run `git clone --recursive https://github.com/TmRAaEx/wordpress-development-env`
 
 ### Setup
 
