@@ -53,7 +53,7 @@ docker compose up
 
 - Database user: **root** (or your configured user in `docker-compose.yml`)
 
-- Database password: **notSecureChangeME** (or your configured password in `docker-compose.yml`)
+- Database password: **notSecureChangeMe** (or your configured password in `docker-compose.yml`)
 
 - Database host: **db**
 
